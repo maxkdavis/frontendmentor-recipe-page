@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(30, 54%, 90%);
+  height: 100vh;
+}
+
+main {
+  /* display: block; */
+  margin: auto;
+  background-color: #fff;
+  width: 736px;
+  padding: 40px;
+}
+
+.hero-img {
+  width: 100%;
+  border-radius: 12px;
+}
